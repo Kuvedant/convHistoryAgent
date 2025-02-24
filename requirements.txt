@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+openai
+langchain
+python-dotenv
+numpy
+pydantic
+guardrails-ai
