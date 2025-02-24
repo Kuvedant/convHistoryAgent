@@ -1,0 +1,14 @@
+<guardrails>
+    <rail version="0.1">
+        <prompt>
+            <input>
+                Ensure the response does not contain hate speech, violence, self-harm, or illegal activities.
+            </input>
+        </prompt>
+        <output>
+            <validation>
+                <moderation />
+            </validation>
+        </output>
+    </rail>
+</guardrails>
